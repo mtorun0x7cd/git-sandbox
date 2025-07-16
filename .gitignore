@@ -1,0 +1,15 @@
+# IDE & OS specific
+.vscode/
+.DS_Store
+
+# Common Dependencies
+node_modules/
+
+# Common Build output
+/build
+/dist
+
+# Environment variables
+.env
+.env.local
+*.env
